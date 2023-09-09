@@ -31,18 +31,18 @@ void highest(){
       high=a[j][i];
        g=rollno[j];
     }
-    }System.out.println("Highest marks in subject "+k+++" is "+high+" by roll number "+g;
+    }System.out.println("Highest marks in subject "+k+++" is "+high+" by roll number "+g);
   }
 
 
 }
 
 void hightotal(){
-    int i,high=b[0],h;
+    int i,high=b[0],h=0;
     for(i=0;i<3;i++){
-        if(b[i]>high)
+        if(b[i]>high){
         high=b[i];
-    h=i;}
+    h=i;}}
         
     System.out.println("Highest marks obtained by roll no "+rollno[h]+" total " +high);
 }
