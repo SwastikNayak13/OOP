@@ -1,0 +1,9 @@
+D:\220953616\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+D:\220953616\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+D:\220953616\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+D:\220953616\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+D:\220953616\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+D:\220953616\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+D:\220953616\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.Cache
+D:\220953616\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+D:\220953616\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
